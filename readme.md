@@ -13,3 +13,4 @@ A little complemtent to ActiveSupport's slice. With this method you can quickly 
     hash.split_off!(:one, :two, :zero) # => {:one=>1, :two=>2}
     hash # => {:three => 3}
 
+Enjoy!
